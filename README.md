@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Colombia Data Week 5 Challenge, using matplotlib to visual ride sharing data.
+Using Python skills and knowledge of Pandas, create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Finally, submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Overview of the analysis
 The purpose of this analysis is to determine how ride sharing data varies by city type. The three city types are urban, suburban, and rural. ride sharing is more popluar in urban and suburban areas leading to a few trends; there are far more rides and drivers in urban cities and the fares are typically higher in rural areas per driver. Investing more money or resources in urban areas makes the most sense as the ride sharing programs are more robust and make more sense in densely populated areas.  
